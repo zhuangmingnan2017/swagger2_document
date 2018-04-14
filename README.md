@@ -1,0 +1,2 @@
+# swagger2_document
+基于swagger2的工具包，在spring项目中引入该工具包即可自动生成相应的接口文档
